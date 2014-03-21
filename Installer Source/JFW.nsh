@@ -62,7 +62,7 @@ Modifications:
 !Define tempFile $temp\Install.ini
 !Define UnInstaller "Uninst.exe"
 !Define JawsDir "$appdata\Freedom Scientific\Jaws" ;the folder where app data for Jaws 6.0 and above is located
-!Define Scriptdir "Settings\Enu" ;folder in $JawsDir to put the script
+!Define Scriptdir "Settings\jpn" ;folder in $JawsDir to put the script
 !Define JawsApp "JFW.EXE" ;Used to check if Jaws is installed
 !Define Compiler "Scompile.exe" ;Used to compile script after installation
 
